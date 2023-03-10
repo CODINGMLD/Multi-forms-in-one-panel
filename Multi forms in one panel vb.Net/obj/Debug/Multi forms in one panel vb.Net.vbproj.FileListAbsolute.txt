@@ -1,0 +1,13 @@
+c:\users\mld\documents\visual studio 2012\Projects\Multi forms in one panel vb.Net\Multi forms in one panel vb.Net\bin\Debug\Multi forms in one panel vb.Net.exe.config
+c:\users\mld\documents\visual studio 2012\Projects\Multi forms in one panel vb.Net\Multi forms in one panel vb.Net\bin\Debug\Multi forms in one panel vb.Net.exe
+c:\users\mld\documents\visual studio 2012\Projects\Multi forms in one panel vb.Net\Multi forms in one panel vb.Net\bin\Debug\Multi forms in one panel vb.Net.pdb
+c:\users\mld\documents\visual studio 2012\Projects\Multi forms in one panel vb.Net\Multi forms in one panel vb.Net\bin\Debug\Multi forms in one panel vb.Net.xml
+c:\users\mld\documents\visual studio 2012\Projects\Multi forms in one panel vb.Net\Multi forms in one panel vb.Net\obj\Debug\Multi_forms_in_one_panel_vb.Net.Form1.resources
+c:\users\mld\documents\visual studio 2012\Projects\Multi forms in one panel vb.Net\Multi forms in one panel vb.Net\obj\Debug\Multi_forms_in_one_panel_vb.Net.menu1.resources
+c:\users\mld\documents\visual studio 2012\Projects\Multi forms in one panel vb.Net\Multi forms in one panel vb.Net\obj\Debug\Multi_forms_in_one_panel_vb.Net.menu2.resources
+c:\users\mld\documents\visual studio 2012\Projects\Multi forms in one panel vb.Net\Multi forms in one panel vb.Net\obj\Debug\Multi_forms_in_one_panel_vb.Net.menu3.resources
+c:\users\mld\documents\visual studio 2012\Projects\Multi forms in one panel vb.Net\Multi forms in one panel vb.Net\obj\Debug\Multi_forms_in_one_panel_vb.Net.Resources.resources
+c:\users\mld\documents\visual studio 2012\Projects\Multi forms in one panel vb.Net\Multi forms in one panel vb.Net\obj\Debug\Multi forms in one panel vb.Net.vbproj.GenerateResource.Cache
+c:\users\mld\documents\visual studio 2012\Projects\Multi forms in one panel vb.Net\Multi forms in one panel vb.Net\obj\Debug\Multi forms in one panel vb.Net.exe
+c:\users\mld\documents\visual studio 2012\Projects\Multi forms in one panel vb.Net\Multi forms in one panel vb.Net\obj\Debug\Multi forms in one panel vb.Net.xml
+c:\users\mld\documents\visual studio 2012\Projects\Multi forms in one panel vb.Net\Multi forms in one panel vb.Net\obj\Debug\Multi forms in one panel vb.Net.pdb
